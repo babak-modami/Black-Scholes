@@ -1,3 +1,4 @@
-import numpy as np
-import pandas as pd
+!pip install bspline
+import bspline
+import bspline.splinelab as spline
 
