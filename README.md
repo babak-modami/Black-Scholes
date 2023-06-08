@@ -1,1 +1,1 @@
-Here we develop a classifier that relies on maximum entropy 
+This is an implementation of discrete time Black-Scholes in Python.
